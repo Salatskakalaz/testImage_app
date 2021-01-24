@@ -18,8 +18,10 @@ class _ButtonNextState extends State<ButtonNext>
 
   Tween tween = Tween<double>(begin: 24, end: 21);
 
+  int teal;
   double size;
   bool pressed;
+
 
   @override
   void initState() {
