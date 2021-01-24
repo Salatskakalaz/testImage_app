@@ -19,8 +19,7 @@ class _ButtonNextState extends State<ButtonNext>
   Tween tween = Tween<double>(begin: 24, end: 21);
 
 
-  bool polo;
-  int teal;
+
   double size;
   bool pressed;
 
